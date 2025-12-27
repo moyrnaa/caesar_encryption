@@ -1,7 +1,7 @@
 # Caesar Cipher 
 
 -This is my Python implementation of the Caesar Cipher, one of the oldest and simplest encryption methods.
-⚠️ Note: The Caesar Cipher is not secure and should only be used for educational purposes or fun, as it can be easily decrypted."
+ Note: The Caesar Cipher is not secure and should only be used for educational purposes or fun, as it can be easily decrypted."
 
 ## What’s a Caesar Cipher?
 
